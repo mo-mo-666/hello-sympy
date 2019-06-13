@@ -8,6 +8,10 @@ verify_ssl = true
 [packages]
 sympy = "*"
 jupyterlab = "*"
+numpy = "*"
+scipy = "*"
+matplotlib = "*"
+seaborn = "*"
 
 [requires]
 python_version = "3.7"
